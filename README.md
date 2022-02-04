@@ -1,6 +1,6 @@
-### Hi there, my name is Vojtěch Hájek 👋
-I’m currently studying at FIT VUT in Brno.
-📫 Email: vojtech.hajek2@gmail.com
+### Hi there, my name is Vojtěch Hájek 👋 </n>
+I’m currently studying at FIT VUT in Brno. </n>
+📫 Email: vojtech.hajek2@gmail.com </n>
 📫 LinkedIn: linkedin.com/in/vojtěch-hájek-a20b93230
 <!--
 **BabushkaBoi1/BabushkaBoi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
