@@ -1,4 +1,4 @@
-### Hi there 👋 <br />
+Hi there 👋 <br />
 My name is Vojtěch Hájek <br />
 I’m currently studying at FIT VUT in Brno. <br />
 📫 Email: vojtech.hajek2@gmail.com <br />
